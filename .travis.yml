@@ -1,6 +1,5 @@
 # Linux e distribuição Ubuntu
-os: linux
-dist: focal
+
 
 # Linguagens Utilizadas para Desenvolver a Aplicação
 language: python
