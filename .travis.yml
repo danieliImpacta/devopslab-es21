@@ -7,8 +7,8 @@ language: python
 
 # Versão que a aplicação suporta.
 python:
- - "3.8"
+  "3.8"
 
  # Instalação de Módulos que são necessários para a Aplicação
  install:
-  - pip install flask pytest
+ pip install flask pytest
