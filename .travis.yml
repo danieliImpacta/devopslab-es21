@@ -34,7 +34,3 @@ deploy:
   app: devopslab-danysantos
   on:
       branch: main
-
-# Instalação de Módulos que são necessários para a Aplicação.                                                                                     
-install:     
-  - pip install flask flask-wtf coverage
